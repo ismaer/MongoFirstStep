@@ -1,0 +1,3 @@
+use("PlatziStore")
+
+db.Productos.find({price: 500})
